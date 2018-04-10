@@ -12,5 +12,6 @@ Following projects are created as part of this coding assesment
 -> I have choosen MVC Core as the option to build the web interface.
 -> Used .NET Core built in depedency injection to achieve loose coupling between objects and dependencies.
 -> Used MSTest framework for unit test and Moq for creating MOCK objects. Unit test is created just for the business layer as a sample implementation.
+-> Focused more on the implementation approach rather than CSS and accuracy of business logic
 
 
