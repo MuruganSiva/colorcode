@@ -1,0 +1,42 @@
+﻿@model ColorCode.Provider.Models.PageModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Calculator";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ohm Calculator</title>
+</head>
+<body>
+    <form asp-controller="ohmvalue" asp-action="calculate" method="get" >
+        <table class="table table-bordered text-left" style="margin-top:100px">
+            <tr>
+                <td class="info">Band A Color</td>
+                <td><select class="dropdown" asp-for="BandACode" asp-items="Model.ColorCodes"></select></td>
+            </tr>
+            <tr>
+                <td class="info">Band B Color</td>
+                <td><select class="dropdown" asp-for="BandBCode" asp-items="Model.ColorCodes"></select></td>
+            </tr>
+            <tr>
+                <td class="info">
+                    Multiplier
+                </td>
+                <td><select class="dropdown" asp-for="MultiplierCode" asp-items="Model.Multiplier"></select></td>
+            </tr>
+            <tr>
+                <td class="info">Tolerance</td>
+                <td><select class="dropdown" asp-for="ToleranceCode" asp-items="Model.Tolerance"></select></td>
+            </tr>
+            <tr>
+                <td><button class="btn-primary" type="submit">Calculate Ohm</button></td>
+                <td><label class="badge" asp-for="OhmValue">@Model.OhmValue</label></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
