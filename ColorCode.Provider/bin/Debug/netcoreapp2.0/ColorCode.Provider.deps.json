@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ColorCode.Provider/1.0.0": {
+        "dependencies": {
+          "ColorCode.Business": "1.0.0"
+        },
+        "runtime": {
+          "ColorCode.Provider.dll": {}
+        }
+      },
+      "ColorCode.Business/1.0.0": {
+        "dependencies": {
+          "ColorCode.Data": "1.0.0"
+        },
+        "runtime": {
+          "ColorCode.Business.dll": {}
+        }
+      },
+      "ColorCode.Data/1.0.0": {
+        "runtime": {
+          "ColorCode.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColorCode.Provider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ColorCode.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ColorCode.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

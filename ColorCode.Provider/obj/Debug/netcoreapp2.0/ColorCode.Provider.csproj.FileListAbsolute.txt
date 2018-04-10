@@ -1,0 +1,15 @@
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\obj\Debug\netcoreapp2.0\ColorCode.Provider.csprojResolveAssemblyReference.cache
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\obj\Debug\netcoreapp2.0\ColorCode.Provider.csproj.CoreCompileInputs.cache
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\obj\Debug\netcoreapp2.0\ColorCode.Provider.AssemblyInfoInputs.cache
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\obj\Debug\netcoreapp2.0\ColorCode.Provider.AssemblyInfo.cs
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\ColorCode.Provider.deps.json
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\ColorCode.Provider.dll
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\ColorCode.Provider.pdb
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\ColorCode.Business.dll
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\ColorCode.Business.pdb
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\obj\Debug\netcoreapp2.0\ColorCode.Provider.dll
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\obj\Debug\netcoreapp2.0\ColorCode.Provider.pdb
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\ColorCode.Data.dll
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\ColorCode.Data.pdb
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Provider\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
