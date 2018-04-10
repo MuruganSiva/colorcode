@@ -1,0 +1,9 @@
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\bin\Debug\netcoreapp2.0\ColorCode.Data.deps.json
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\bin\Debug\netcoreapp2.0\ColorCode.Data.dll
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\bin\Debug\netcoreapp2.0\ColorCode.Data.pdb
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\obj\Debug\netcoreapp2.0\ColorCode.Data.csprojResolveAssemblyReference.cache
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\obj\Debug\netcoreapp2.0\ColorCode.Data.csproj.CoreCompileInputs.cache
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\obj\Debug\netcoreapp2.0\ColorCode.Data.AssemblyInfoInputs.cache
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\obj\Debug\netcoreapp2.0\ColorCode.Data.AssemblyInfo.cs
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\obj\Debug\netcoreapp2.0\ColorCode.Data.dll
+C:\Users\murugas3\Documents\Personal\HomeDepot\ColorCode\ColorCode.Data\obj\Debug\netcoreapp2.0\ColorCode.Data.pdb
